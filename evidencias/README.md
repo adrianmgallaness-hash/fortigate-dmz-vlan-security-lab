@@ -78,3 +78,17 @@ Origen RED-VLAN20 (10.21.39.128/25), destino tres servidores, servicio SSH, ACCE
 
 ![Política SSH de VLAN 20](politica-ssh-vlan20.png)
 
+
+## Topologías adjuntadas al cierre
+
+### Diseño inicial — referencia histórica
+
+![Diseño inicial del laboratorio](topologia-diseno-inicial.png)
+
+Este esquema es previo a la implementación. Muestra la DMZ 172.21.39.32/28, rangos DHCP e IP de administración propuestos que no corresponden al direccionamiento final. La DMZ implementada es 10.21.40.0/28, gateway 10.21.40.1; prevalecen la tabla de direccionamiento y las configuraciones publicadas.
+
+### Topología final en GNS3
+
+![Topología final de GNS3](topologia-final-gns3.png)
+
+Se observan Cloud1, FortiGate, SW-LAN, SW-DMZ, las dos PCs y los servidores de Inventario, Base de Datos y Caja. Las etiquetas e0/e1/e2 del nodo FortiGate corresponden a port1/port2/port3 en su GUI. Los indicadores verdes muestran los enlaces representados activos; las pruebas funcionales están documentadas en las demás evidencias.

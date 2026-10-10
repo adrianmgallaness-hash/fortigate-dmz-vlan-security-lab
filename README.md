@@ -52,7 +52,7 @@ Los registros muestran SSH permitido desde VLAN 20, SSH denegado desde VLAN 10 y
 
 ![Aviso de bloqueo de Inventario desde VLAN 10](evidencias/inventario-aviso-bloqueo.png)
 
-El aviso identifica el bloqueo por filtro local de URL. [Ver las 14 capturas y sus explicaciones](evidencias/README.md).
+El aviso identifica el bloqueo por filtro local de URL. [Ver las 16 imágenes y sus explicaciones](evidencias/README.md).
 
 ## Documentación
 
@@ -69,3 +69,9 @@ El aviso identifica el bloqueo por filtro local de URL. [Ver las 14 capturas y s
 La documentación y las capturas disponibles están incluidas. Se incorporaron los running-configs de ambos switches y una copia saneada del backup del FortiGate. Falta incorporar el enlace del video, las exportaciones de los servidores y el código completo de las aplicaciones desplegadas. Los archivos de referencia no sustituyen esas exportaciones.
 
 La comprobación completa de descargas de actualizaciones quedó fuera de la demostración final; no se presenta como una prueba superada.
+
+## Topología final del laboratorio
+
+![Topología final en GNS3](evidencias/topologia-final-gns3.png)
+
+El [diseño inicial](evidencias/topologia-diseno-inicial.png) se conserva como referencia histórica; sus direcciones propuestas fueron reemplazadas por el direccionamiento documentado en este repositorio.
