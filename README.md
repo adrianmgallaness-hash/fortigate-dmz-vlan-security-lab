@@ -1,6 +1,8 @@
 ## Video demostrativo
 
-**Pendiente de insertar el enlace del video de esta práctica.** Este bloque se mantiene al principio del repositorio.
+[![Ver demostración: FortiGate, DMZ y VLAN](https://img.youtube.com/vi/D0aCyLObEng/hqdefault.jpg)](https://youtu.be/D0aCyLObEng)
+
+**[▶ Ver el video demostrativo](https://youtu.be/D0aCyLObEng)**
 
 # Seguridad de redes con FortiGate · DMZ y VLAN
 
@@ -66,7 +68,7 @@ El aviso identifica el bloqueo por filtro local de URL. [Ver las 16 imágenes y 
 
 ## Estado de entrega
 
-La documentación y las capturas disponibles están incluidas. Se incorporaron los running-configs de ambos switches y una copia saneada del backup del FortiGate. Falta incorporar el enlace del video, las exportaciones de los servidores y el código completo de las aplicaciones desplegadas. Los archivos de referencia no sustituyen esas exportaciones.
+La documentación y las capturas disponibles están incluidas. Se incorporaron los running-configs de ambos switches y una copia saneada del backup del FortiGate. El video demostrativo está enlazado al principio. Falta incorporar las exportaciones de los servidores y el código completo de las aplicaciones desplegadas. Los archivos de referencia no sustituyen esas exportaciones.
 
 La comprobación completa de descargas de actualizaciones quedó fuera de la demostración final; no se presenta como una prueba superada.
 
