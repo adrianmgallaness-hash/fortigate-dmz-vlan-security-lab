@@ -1,0 +1,7 @@
+*.key
+*.pem
+.env
+*-db.php
+*.qcow2
+*.vmdk
+*.iso

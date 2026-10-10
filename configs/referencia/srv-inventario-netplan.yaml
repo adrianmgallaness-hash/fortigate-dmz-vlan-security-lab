@@ -1,0 +1,15 @@
+# Transcripción de la configuración mostrada; no export completo.
+network:
+  version: 2
+  renderer: networkd
+  ethernets:
+    ens3:
+      dhcp4: false
+      addresses:
+        - 10.21.40.3/28
+      nameservers:
+        addresses:
+          - 10.21.40.1
+      routes:
+        - to: default
+          via: 10.21.40.1
