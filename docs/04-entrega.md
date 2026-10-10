@@ -12,4 +12,4 @@
 
 Para completar: entregar URL del video, salida completa de show running-config de SW-LAN y SW-DMZ, backup de configuración del FortiGate obtenido por GUI, y archivos PHP reales de Caja e Inventario. Revisar credenciales antes de publicar.
 
-Capturas adicionales recomendadas para cerrar las evidencias: aviso visible de bloqueo de Inventario, DHCP en ambos clientes y configuración VLAN/Port Security de ambos switches.
+Se incluyen 14 capturas: bloqueo visible y log de Inventario, configuración DHCP de ambas VLAN, dirección DHCP de USUARIO-1, sesiones SSH y políticas. Para ampliar: concesión DHCP de USUARIO-2 y configuración VLAN/Port Security de ambos switches.

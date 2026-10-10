@@ -48,6 +48,12 @@ La captura muestra una venta registrada y los totales de la aplicación.
 
 Los registros muestran SSH permitido desde VLAN 20, SSH denegado desde VLAN 10 y conexiones iniciadas desde Caja hacia las dos VLAN denegadas.
 
+### Bloqueo visible de Inventario
+
+![Aviso de bloqueo de Inventario desde VLAN 10](evidencias/inventario-aviso-bloqueo.png)
+
+El aviso identifica el bloqueo por filtro local de URL. [Ver las 14 capturas y sus explicaciones](evidencias/README.md).
+
 ## Documentación
 
 - [Arquitectura y direccionamiento](docs/01-arquitectura.md)
