@@ -6,10 +6,10 @@
 | Documentación profesional | Arquitectura, controles y demostración incluidos |
 | Imágenes | Capturas reales en evidencias |
 | Diagramas | Topología y flujo de aplicaciones en Mermaid |
-| Video al principio | Bloque inicial preparado; falta URL |
+| Video al principio | [Video enlazado al principio del README](https://youtu.be/D0aCyLObEng) |
 | Todos los scripts utilizados | SQL conocido documentado; falta código PHP real y otros scripts locales, si existen |
 | Running-configs | Incluidos SW-LAN, SW-DMZ y backup FortiGate saneado |
 
-Para completar: entregar URL del video, exportaciones de los servidores y archivos PHP reales de Caja e Inventario. Los running-configs de ambos switches y el backup saneado del FortiGate ya están publicados.
+Para completar: entregar exportaciones de los servidores y archivos PHP reales de Caja e Inventario. Los running-configs de ambos switches y el backup saneado del FortiGate ya están publicados.
 
-Se incluyen 14 capturas: bloqueo visible y log de Inventario, configuración DHCP de ambas VLAN, dirección DHCP de USUARIO-1, sesiones SSH y políticas. Para ampliar: concesión DHCP de USUARIO-2 y configuración VLAN/Port Security de ambos switches.
+Se incluyen 16 imágenes, entre capturas y topologías: bloqueo visible y log de Inventario, configuración DHCP de ambas VLAN, dirección DHCP de USUARIO-1, sesiones SSH y políticas. Para ampliar: concesión DHCP de USUARIO-2 y configuración VLAN/Port Security de ambos switches.
