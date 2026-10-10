@@ -34,7 +34,7 @@ La regla de Inventario figura como ACCEPT porque el perfil Web Filter aplica el 
 
 - VLAN separadas y trunk limitado a VLAN 10 y 20.
 - Port Security en puertos de acceso, con acción Shutdown ante violaciones.
-- Puertos sin uso administrativamente desactivados según la configuración trabajada.
+- SW-DMZ: puertos Gi1/0–Gi3/3 administrativamente desactivados. En el running-config recibido de SW-LAN, los puertos sin uso no incluyen shutdown.
 - UFW de los servidores web: SSH desde 10.21.39.128/25 y HTTP desde 10.21.39.0/24 por ens3.
 - UFW de srv-db: SSH desde VLAN 20 y MariaDB desde 10.21.40.2 y 10.21.40.3.
 - MariaDB escucha en 10.21.40.4:3306 y las cuentas de aplicación están asociadas a la IP de su servidor.

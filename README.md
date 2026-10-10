@@ -66,6 +66,6 @@ El aviso identifica el bloqueo por filtro local de URL. [Ver las 14 capturas y s
 
 ## Estado de entrega
 
-La documentación y las capturas disponibles están incluidas. Falta incorporar el enlace del video, las exportaciones reales de ambos switches y del FortiGate, y el código completo de las aplicaciones desplegadas. Los archivos de referencia no sustituyen esas exportaciones.
+La documentación y las capturas disponibles están incluidas. Se incorporaron los running-configs de ambos switches y una copia saneada del backup del FortiGate. Falta incorporar el enlace del video, las exportaciones de los servidores y el código completo de las aplicaciones desplegadas. Los archivos de referencia no sustituyen esas exportaciones.
 
 La comprobación completa de descargas de actualizaciones quedó fuera de la demostración final; no se presenta como una prueba superada.
